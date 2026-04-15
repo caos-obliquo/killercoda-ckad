@@ -1,0 +1,24 @@
+{
+  "title": "Q13 | StorageClass & PVC",
+  "description": "Create StorageClass moon-retain with provisioner moon-retainer, then PVC moon-pvc-126 in Namespace moon. Write the PVC event message to a file.",
+  "difficulty": "intermediate",
+  "time": "15",
+  "details": {
+    "steps": [
+      {
+        "title": "Task",
+        "text": "task.md"
+      },
+      {
+        "title": "Solution",
+        "text": "solution.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-2nodes"
+  }
+}

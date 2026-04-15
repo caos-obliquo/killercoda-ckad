@@ -1,0 +1,24 @@
+{
+  "title": "Q17 | InitContainer",
+  "description": "Add an InitContainer init-con (busybox:1.31.0) to a Deployment in Namespace mars that writes 'check this out!' to index.html in a shared volume.",
+  "difficulty": "intermediate",
+  "time": "15",
+  "details": {
+    "steps": [
+      {
+        "title": "Task",
+        "text": "task.md"
+      },
+      {
+        "title": "Solution",
+        "text": "solution.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-2nodes"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Q02 | Pods",
+  "description": "Create a single Pod of image httpd:2.4.41-alpine named pod1 with container pod1-container. Write a kubectl status command to /opt/course/2/pod1-status-command.sh.",
+  "difficulty": "intermediate",
+  "time": "15",
+  "details": {
+    "steps": [
+      {
+        "title": "Task",
+        "text": "task.md"
+      },
+      {
+        "title": "Solution",
+        "text": "solution.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-2nodes"
+  }
+}

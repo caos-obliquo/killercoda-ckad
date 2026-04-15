@@ -1,0 +1,24 @@
+{
+  "title": "Q18 | Service Misconfiguration",
+  "description": "Fix the ClusterIP service manager-api-svc in Namespace mars \u2014 it has a wrong selector and isn't routing to the Deployment pods.",
+  "difficulty": "intermediate",
+  "time": "15",
+  "details": {
+    "steps": [
+      {
+        "title": "Task",
+        "text": "task.md"
+      },
+      {
+        "title": "Solution",
+        "text": "solution.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-2nodes"
+  }
+}

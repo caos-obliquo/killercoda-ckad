@@ -1,0 +1,24 @@
+{
+  "title": "Q04 | Helm Management",
+  "description": "Perform Helm operations in Namespace mercury: delete a release, upgrade another, install apache with 2 replicas, and delete a broken pending-install release.",
+  "difficulty": "intermediate",
+  "time": "15",
+  "details": {
+    "steps": [
+      {
+        "title": "Task",
+        "text": "task.md"
+      },
+      {
+        "title": "Solution",
+        "text": "solution.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-2nodes"
+  }
+}

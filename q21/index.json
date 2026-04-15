@@ -1,0 +1,24 @@
+{
+  "title": "Q21 | Requests, Limits & ServiceAccount",
+  "description": "Create Deployment neptune-10ab with 3 replicas, container neptune-pod-10ab, memory request 20Mi / limit 50Mi, using ServiceAccount neptune-sa-v2.",
+  "difficulty": "intermediate",
+  "time": "15",
+  "details": {
+    "steps": [
+      {
+        "title": "Task",
+        "text": "task.md"
+      },
+      {
+        "title": "Solution",
+        "text": "solution.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-2nodes"
+  }
+}

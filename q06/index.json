@@ -1,0 +1,24 @@
+{
+  "title": "Q06 | ReadinessProbe",
+  "description": "Create Pod pod6 with image busybox:1.31.0 and a readiness-probe executing 'cat /tmp/ready', initial delay 5s, period 10s.",
+  "difficulty": "intermediate",
+  "time": "15",
+  "details": {
+    "steps": [
+      {
+        "title": "Task",
+        "text": "task.md"
+      },
+      {
+        "title": "Solution",
+        "text": "solution.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-2nodes"
+  }
+}

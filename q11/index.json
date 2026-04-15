@@ -1,0 +1,24 @@
+{
+  "title": "Q11 | Working with Containers",
+  "description": "Set ENV var in Dockerfile, build with Docker and Podman, push images, run a container, and save its logs.",
+  "difficulty": "intermediate",
+  "time": "15",
+  "details": {
+    "steps": [
+      {
+        "title": "Task",
+        "text": "task.md"
+      },
+      {
+        "title": "Solution",
+        "text": "solution.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-2nodes"
+  }
+}

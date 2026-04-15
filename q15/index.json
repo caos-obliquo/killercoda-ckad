@@ -1,0 +1,24 @@
+{
+  "title": "Q15 | ConfigMap Volume",
+  "description": "Create ConfigMap configmap-web-moon-html from /opt/course/15/web-moon.html with key index.html, so the existing web-moon Deployment can serve it.",
+  "difficulty": "intermediate",
+  "time": "15",
+  "details": {
+    "steps": [
+      {
+        "title": "Task",
+        "text": "task.md"
+      },
+      {
+        "title": "Solution",
+        "text": "solution.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-2nodes"
+  }
+}

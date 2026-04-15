@@ -1,0 +1,24 @@
+{
+  "title": "Q03 | Job",
+  "description": "Create a Job template in Namespace neptune running busybox:1.31.0, 3 completions, 2 parallel, with label id: awesome-job.",
+  "difficulty": "intermediate",
+  "time": "15",
+  "details": {
+    "steps": [
+      {
+        "title": "Task",
+        "text": "task.md"
+      },
+      {
+        "title": "Solution",
+        "text": "solution.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-2nodes"
+  }
+}

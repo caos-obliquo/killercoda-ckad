@@ -1,0 +1,24 @@
+{
+  "title": "Q14 | Secret Volume & Env",
+  "description": "Create Secret secret1 (user/pass), expose as env vars in Pod secret-handler; mount Secret secret2 at /tmp/secret2. Save new yaml.",
+  "difficulty": "intermediate",
+  "time": "15",
+  "details": {
+    "steps": [
+      {
+        "title": "Task",
+        "text": "task.md"
+      },
+      {
+        "title": "Solution",
+        "text": "solution.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-2nodes"
+  }
+}

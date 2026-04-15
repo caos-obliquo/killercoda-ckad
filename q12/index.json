@@ -1,0 +1,24 @@
+{
+  "title": "Q12 | Storage - PV, PVC, Pod Volume",
+  "description": "Create PV earth-project-earthflower-pv (2Gi, RWO, hostPath /Volumes/Data), PVC in Namespace earth, and a Deployment mounting it.",
+  "difficulty": "intermediate",
+  "time": "15",
+  "details": {
+    "steps": [
+      {
+        "title": "Task",
+        "text": "task.md"
+      },
+      {
+        "title": "Solution",
+        "text": "solution.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-2nodes"
+  }
+}

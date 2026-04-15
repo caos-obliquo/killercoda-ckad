@@ -1,0 +1,26 @@
+{
+  "scenarios": [
+    { "path": "q01", "title": "Q01 - Namespaces" },
+    { "path": "q02", "title": "Q02 - Pods" },
+    { "path": "q03", "title": "Q03 - Job" },
+    { "path": "q04", "title": "Q04 - Helm Management" },
+    { "path": "q05", "title": "Q05 - ServiceAccount & Secret" },
+    { "path": "q06", "title": "Q06 - ReadinessProbe" },
+    { "path": "q07", "title": "Q07 - Pods & Namespaces" },
+    { "path": "q08", "title": "Q08 - Deployment Rollouts" },
+    { "path": "q09", "title": "Q09 - Pod to Deployment" },
+    { "path": "q10", "title": "Q10 - Service & Logs" },
+    { "path": "q11", "title": "Q11 - Working with Containers" },
+    { "path": "q12", "title": "Q12 - Storage PV & PVC" },
+    { "path": "q13", "title": "Q13 - StorageClass & PVC" },
+    { "path": "q14", "title": "Q14 - Secret Volume & Env" },
+    { "path": "q15", "title": "Q15 - ConfigMap Volume" },
+    { "path": "q16", "title": "Q16 - Logging Sidecar" },
+    { "path": "q17", "title": "Q17 - InitContainer" },
+    { "path": "q18", "title": "Q18 - Service Misconfiguration" },
+    { "path": "q19", "title": "Q19 - ClusterIP to NodePort" },
+    { "path": "q20", "title": "Q20 - NetworkPolicy" },
+    { "path": "q21", "title": "Q21 - Requests, Limits & ServiceAccount" },
+    { "path": "q22", "title": "Q22 - Labels & Annotations" }
+  ]
+}

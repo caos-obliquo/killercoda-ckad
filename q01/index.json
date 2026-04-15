@@ -1,0 +1,24 @@
+{
+  "title": "Q01 | Namespaces",
+  "description": "The DevOps team would like to get the list of all Namespaces in the cluster. Save the list to /opt/course/1/namespaces.",
+  "difficulty": "intermediate",
+  "time": "15",
+  "details": {
+    "steps": [
+      {
+        "title": "Task",
+        "text": "task.md"
+      },
+      {
+        "title": "Solution",
+        "text": "solution.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-2nodes"
+  }
+}

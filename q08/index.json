@@ -1,0 +1,24 @@
+{
+  "title": "Q08 | Deployment Rollouts",
+  "description": "Find a working revision in Deployment api-new-c32 history (Namespace neptune), identify the error, and rollback to it.",
+  "difficulty": "intermediate",
+  "time": "15",
+  "details": {
+    "steps": [
+      {
+        "title": "Task",
+        "text": "task.md"
+      },
+      {
+        "title": "Solution",
+        "text": "solution.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-2nodes"
+  }
+}
